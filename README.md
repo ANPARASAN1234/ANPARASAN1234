@@ -56,9 +56,11 @@
 
 ## GitHub Stats
 
-![A.ANPARASAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANPARASAN1234\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANPARASAN1234\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ANPARASAN1234&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ANPARASAN1234&layout=compact&theme=tokyonight)
 
 ---
 
