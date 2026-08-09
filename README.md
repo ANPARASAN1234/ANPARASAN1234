@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ANPARASAN_GitHub_Profile.gif" width="250">
+</p>
+
 # Hi there, I'm Ajitharan Anparasan 👋
 
 ## About Me
