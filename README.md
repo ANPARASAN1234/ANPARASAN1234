@@ -56,14 +56,6 @@
 
 ## GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ANPARASAN1234&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ANPARASAN1234&layout=compact&theme=tokyonight)
-
----
-
 ### 🚀 "Learning, Building, and Growing Every Day."
 
 Thanks for visiting my profile! 😊
